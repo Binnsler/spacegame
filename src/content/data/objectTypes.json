@@ -1,0 +1,7 @@
+{
+    "player": 1,
+    "playerProjectile": 2,
+    "enemy": 4,
+    "enemyProjectile": 8,
+    "powerup": 16
+}
